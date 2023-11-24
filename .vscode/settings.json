@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "files.defaultLanguage": "dart",
+    "editor.formatOnSave": true,
+    "cmake.sourceDirectory": "/Volumes/SaSSD 1TB/Flutter_Ext/Tutoriales/Mios/Ejercicios_Ui's/aplicacion_1/linux",
+}
