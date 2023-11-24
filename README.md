@@ -6,7 +6,7 @@ A project with Clean Architecture and Provider
 
 The first screen is a screen with the activities of your friends, the second one is your group of friends and where they are located
 
-<iframe width="640" height="360" src="https://drive.google.com/file/d/1bvMga_lGzXDdTl1xAUK7meEZONG9T1FB/view?usp=sharing" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+[}(assets/visualizciones/Screen Recording 2023-11-24 at 8.27.32 a.m..mov)
 
 ### An app, based on
 
